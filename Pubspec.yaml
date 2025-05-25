@@ -1,0 +1,19 @@
+name: truyan_mobile
+description: Tru-Yan Mobile App
+
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web3dart: ^4.1.0
+  http: ^0.13.5
+  provider: ^6.0.5
+  video_player: ^2.8.0
+  flutter_secure_storage: ^8.0.0
+
+flutter:
+  uses-material-design: true
